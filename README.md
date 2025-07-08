@@ -9,29 +9,29 @@ A full-featured e-commerce platform built with the **MERN** stack (MongoDB, Expr
 
 This project delivers a complete end-to-end e-commerce solution with:
 
-- 🧾 User registration, login, and profile updates  
-- 🛍️ Product browsing, filtering, and detailed view  
-- 🛒 Shopping cart with secure checkout and payment integration  
-- 🧑‍💼 Admin dashboard for managing products, users, and orders  
-- 📱 Responsive design for all devices  
+- User registration, login, and profile updates  
+- Product browsing, filtering, and detailed view  
+- Shopping cart with secure checkout and payment integration  
+- Admin dashboard for managing products, users, and orders  
+- Responsive design for all devices  
 
 ---
 
 ## 🚀 Features
 
-### 👤 User Features
-- ✅ Secure user **authentication** & profile management
-- 🛒 Add/remove items in **shopping cart**
-- 🔎 **Global search**, category & brand-based browsing
-- 📊 **Sort** by price or title
-- 🛍️ Detailed **product view** with user reviews
-- 💳 **Payment integration** (PayPal sandbox shown)
-- 📦 View **order history** with status, date, and item info
-
 ### 🛠️ Admin Features
-- 📦 **Add, edit, or delete products** (with image uploads)
-- 🔁 **Update order status** & manage inventory
-- 🧑‍💻 Admin-only dashboard access
+- **Add, edit, or delete products** (with image uploads)
+- **Update order status** & manage inventory
+- Admin-only dashboard access
+
+### 👤 User Features
+- Secure user **authentication** & profile management
+- Add/remove items in **shopping cart**
+- **Global search**, category & brand-based browsing
+- **Sort** by price or title
+- Detailed **product view** with user reviews
+- **Payment integration** (PayPal sandbox shown)
+- View **order history** with status, date, and item info
 
 ---
 
@@ -54,7 +54,7 @@ This project delivers a complete end-to-end e-commerce solution with:
 ---
 
 
-## 🖼️ Screenshots (Optional)
+## 🖼️ Screenshots
 ![adminPannel-uploadImages](https://github.com/user-attachments/assets/ed32f67d-51c7-493c-9926-e1cf80c70f60)
 ![adminPannel-updateOrderStatus](https://github.com/user-attachments/assets/c36af1cb-50b0-4220-92cc-995fe26b1062)
 ![adminPannel-addProduct](https://github.com/user-attachments/assets/e7717a89-d055-439b-adbf-a97a8eaa9bcf)
