@@ -53,9 +53,17 @@ This project delivers a complete end-to-end e-commerce solution with:
 
 ---
 
+
 ## 🖼️ Screenshots (Optional)
-> *(You can insert images of your UI here)*  
-> Example: ![Homepage Screenshot](path/to/image.png)
+![adminPannel-uploadImages](https://github.com/user-attachments/assets/ed32f67d-51c7-493c-9926-e1cf80c70f60)
+![adminPannel-updateOrderStatus](https://github.com/user-attachments/assets/c36af1cb-50b0-4220-92cc-995fe26b1062)
+![adminPannel-addProduct](https://github.com/user-attachments/assets/e7717a89-d055-439b-adbf-a97a8eaa9bcf)
+![allProductsPage](https://github.com/user-attachments/assets/08493f28-42f2-4c36-865f-723d2f56bedc)
+![cartView](https://github.com/user-attachments/assets/67adb17e-762c-405c-8a0b-00a5a29c0495)
+![checkoutPage](https://github.com/user-attachments/assets/fb2a058b-802a-40b8-beea-cf5a249453fa)
+![orderHistory](https://github.com/user-attachments/assets/8c45868c-bd90-4ca6-999b-55d9bf98811b)
+![paymentsPage](https://github.com/user-attachments/assets/88d865b7-6995-4493-be16-68ea82729d1c)
+
 
 ---
 
@@ -63,8 +71,6 @@ This project delivers a complete end-to-end e-commerce solution with:
 ```
 /client       → React frontend
 /server       → Node/Express backend
-/config       → Environment variables and configs
-/uploads      → Product images
 ```
 
 ---
@@ -92,13 +98,6 @@ npm run dev
 
 ---
 
-## 🧪 Sandbox & Demo
-
-- 💰 **PayPal sandbox** for secure payment testing  
-- 🔗 *Add live link or demo video here (if available)*
-
----
-
 ## 🙌 Contributions
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -113,4 +112,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Feel free to reach out via [your-email@example.com] or open an issue on GitHub.
+Feel free to reach out via [aryan.ajwani@example.com] or open an issue on GitHub.
