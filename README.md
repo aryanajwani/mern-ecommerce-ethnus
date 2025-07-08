@@ -67,7 +67,7 @@ This project delivers a complete end-to-end e-commerce solution with:
 
 ---
 
-## 📂 Folder Structure (Optional)
+## 📂 Folder Structure
 ```
 /client       → React frontend
 /server       → Node/Express backend
@@ -79,7 +79,7 @@ This project delivers a complete end-to-end e-commerce solution with:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mern-ecommerce.git
+git clone https://github.com/aryanajwani/mern-ecommerce-ethnus.git
 
 # Navigate to project
 cd mern-ecommerce
